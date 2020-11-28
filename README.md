@@ -5,7 +5,7 @@ A python application which sends mail to your close once by checking entry from 
 
 ### To use enter `NAME, MONTH, DATE & MAIL` to the xlsx file.
 
-### - Then Run  python3 main.py 
+### - Then Run  `python3 main.py`
 
 ### Bonus 
 
